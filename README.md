@@ -1,6 +1,6 @@
 # Expense Tracker made by Nitin Singh
 
-![Expense Tracker Screenshot](expense_tracker_screenshot.png)
+![Expense Tracker Screenshot](Expense_Tracker.png)
 
 ## Table of Contents
 - [Description](#description)
